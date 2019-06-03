@@ -14,7 +14,7 @@ h1 {
   line-height: 5%;
 }
 body{
-  background-image: url(/home/walter/Documents/moringa-school-projects/Triangle-hacker/Images/part.jpeg);
+  background-image: url(../Images/part.jpeg)
 }
 label{
   background-color: #ff9800; color: black;;
