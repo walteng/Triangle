@@ -16,6 +16,18 @@ The  application takes input for the sides of a triangle and check whether the s
 -   Fourthly,the dependencies include the html, css, images,and javascript files.
 
 The set is easy and requires less technical know-how to run
+## BDD
+
+### User Logic
+- User inputs the lengths for the three sides of a triangle.
+- Click submission to seek output.
+### Business Logic
+- Define a triangle as the initial condition.
+- Then check whether all sides are equal; which is termed equilateral.
+- Checked if any of the two sides are equal then state as isosceles.
+- If all sides are not equal then the triangle is a scalene but the sum of two sides has to be greater or equal.
+- However, if the dimensions does not meet this conditions give "Not a triangle" as the return.
+- Finally, confirm from user if they are done and thank them for accessing the application.
 
 ## Known Bugs
 
