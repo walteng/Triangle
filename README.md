@@ -6,7 +6,7 @@
 
 ## Description
 
-The page has my name at the top with my image. in addition, It also representations and active links to the projects I have created. the projects are briefly described regarding the technologies used.it also has a section named "About Me" that provides background information like my career,education level, experience, and skills.lastly, the site is deployed onto the Github pages.
+The  application takes input for the sides of a triangle and check whether the shape would be an equilateral, isosceles, scalene, and also declare if not a triangle. The output manipulation is displayed as an alert and the user is asked to confirm their satisfaction and the form is resubmitted.
 
 ## Setup/Installation Requirements
 
