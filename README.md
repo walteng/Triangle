@@ -1,6 +1,6 @@
-#{Application name:Portfolio Landing Page}
+#{Application name:Triangle Tracker App}
 
-#### It is webpage that describes my life and achievements, 24/05/2019
+#### It is web App that defines a triangle and determines the type resulting from the dimensions, 24/05/2019
 
 #### By **Walter Kiprotich**
 
