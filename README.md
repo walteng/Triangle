@@ -32,4 +32,4 @@ In case of issues using the app please contact me at ngetichwalt49@gmail.com or 
 ### License
 
 _The web app utilizes the GPL License_
-Copyright (c) {2019} **Walter Kiprotich**
+Copyright (c) {2019} Rights reserved for **Walter Kiprotich**
