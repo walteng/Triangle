@@ -14,4 +14,6 @@ function triangle() {
   } else {
     alert("Not a Triangle");
   }
+  confirm("Hey, are you done?")
+  alert("Thank you!!")
 };

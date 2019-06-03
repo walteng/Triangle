@@ -1,0 +1,9 @@
+div {
+  column-rule: 2px;
+  column-count: 1;
+  width: 95%;
+  border: 6px;
+  padding: 20px;
+  margin-left: 2%;
+  margin-right: 0.5%;
+}
