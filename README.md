@@ -39,7 +39,7 @@ The app is only built by use of HTML, CSS(bootstrap and css), and javascript.
 
 ## Support and contact details
 
-In case of issues using the app please contact me at ngetichwalt49@gmail.com or contribute through my github account link:<https://github.com/walteng/Portfolio-Landing-Page>
+In case of issues using the app please contact me at ngetichwalt49@gmail.com or contribute through my github account link:<https://walteng.github.io/Triangle/>
 
 ### License
 
