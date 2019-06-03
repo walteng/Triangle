@@ -1,4 +1,4 @@
-#{Application name:Triangle Tracker App}
+# Application name:Triangle Tracker App
 
 #### It is web App that defines a triangle and determines the type resulting from the dimensions, 24/05/2019
 
