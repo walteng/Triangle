@@ -7,3 +7,9 @@ div {
   margin-left: 2%;
   margin-right: 0.5%;
 }
+h1 {
+  text-rendering: geometricPrecision;
+  padding: 10px;
+  text-align: center;
+  line-height: 5%;
+}
