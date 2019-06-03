@@ -23,7 +23,7 @@ Most of the bugs have been resolved accordingly hence it runs without generating
 
 ## Technologies Used
 
-The app is only built by use of HTML and css
+The app is only built by use of HTML, CSS(bootstrap and css), and javascript.
 
 ## Support and contact details
 
