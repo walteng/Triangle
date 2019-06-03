@@ -10,10 +10,10 @@ The  application takes input for the sides of a triangle and check whether the s
 
 ## Setup/Installation Requirements
 
--   first, run the code path on the browser
--   secondly,no web server is necessary to run the app
--   Thirdly, a link to source is required to retrieve information.
--   fourthly,the dependencies include the css, images, and html files.
+-   First, run the code path on the browser
+-   Secondly,no web server is necessary to run the app
+-   Thirdly, a link to respective sources is required to retrieve information.
+-   Fourthly,the dependencies include the html, css, images,and javascript files.
 
 The set is easy and requires less technical know-how to run
 
